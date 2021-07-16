@@ -1,5 +1,6 @@
 # Neural Architecture Search
 
-This repository contains codes for NAS and AutoML. 
+This repository contains codes for NAS/NAT and AutoML. 
+
 
 Core Library: Pytorch
